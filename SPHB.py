@@ -15,14 +15,6 @@ import webbrowser
 
 
 st.set_page_config(page_title = "Sleep patterns and human behaviour")
-st.sidebar.title("Sleep Patterns and Human Behaviour")
-st.sidebar.write("This is an EDA based on a survey conducted to determine the relationships and insights between sleeping patterns and human behaviour.")
-st.sidebar.write("***")
-st.sidebar.write("Say Hi to the author!")
-if st.sidebar.button("LinkedIn"):
-    webbrowser.open_new_tab("https://www.linkedin.com/in/almasfiza-shaikh-004048185/")
-if st.sidebar.button("Github"):
-    webbrowser.open_new_tab("https://github.com/almasfiza")
 
 
 
