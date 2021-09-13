@@ -1,6 +1,5 @@
 from altair.vegalite.v4.schema.channels import Tooltip
 from altair.vegalite.v4.schema.core import TooltipContent
-from seaborn.palettes import color_palette
 import streamlit as st
 import pandas as pd
 import numpy as np
