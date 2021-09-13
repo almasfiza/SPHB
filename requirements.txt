@@ -1,0 +1,10 @@
+altair
+seaborn
+streamlit
+pandas
+numpy
+matplotlib
+pywaffle
+plotly
+webbrowser
+mpld3
