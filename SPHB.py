@@ -10,8 +10,7 @@ import plotly.graph_objects as go
 from plotly import tools
 import plotly.offline as py
 import plotly.express as px
-import mpld3
-import webbrowser
+
 
 
 st.set_page_config(page_title = "Sleep patterns and human behaviour")
