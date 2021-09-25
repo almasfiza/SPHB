@@ -67,7 +67,7 @@ wafflefig = plt.figure(FigureClass = Waffle,
                 rows = 5,
                 columns = 11,
                 values = pd.array(df["Your age group:"].value_counts()),
-                labels = ['18-25', '<17', '>25'],
+                labels = ['18-25', '>25', '<17'],
                 colors = ["#FF3EA5FF","#EDFF00FF","#00A4CCFF"])
 st.pyplot()
 st.write("The majority of participants are between the age of 18-25 years old, or classified as Young Adults.")
